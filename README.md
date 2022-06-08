@@ -442,7 +442,7 @@ Expressvpn 底下我用mac當作教學。 先到<a href="https://www.expressvpn.
 
 要關掉vpn，就在點擊中間的按鈕，系統會回到disconnected狀態。點下方可以換國家。 自己選擇位置，在中國的朋友建議選擇香港，台灣，日本這幾個地方。更多expressvpn操作細節，請參考我的其他文章。
 
-<img src="./image/exp/.PNG" alt="drawing" width="600"/>
+<img src="./image/exp/7.PNG" alt="drawing" width="600"/>
 
 
 ## Surfshark 的安裝教學
