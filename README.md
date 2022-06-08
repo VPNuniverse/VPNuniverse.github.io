@@ -443,9 +443,20 @@ Expressvpn 底下我用mac當作教學。 先到<a href="https://www.expressvpn.
 
 現在來解釋如何下載並使用Surfshark。按照上述方法付完錢以後，選擇你的對應設備: 有iOS, linux, windows, mac, 或android，這裡用windows系統當作教學。關於其他設備，可以參考我的其他文章。
 
+### 到官方網站下載surfshark以後
+
+### 進行安裝
+
+### 輸入帳號密碼
+
+### 即可連線成功。
+
+
+
 ## flowvpn 的安裝教學
 
-現在來解釋如何下載並使用FlowVPN。按照上述方法付完錢以後，選擇你的對應設備: 有iOS, linux, windows, mac, 或android，這裡用windows系統當作教學。關於其他設備，可以參考我的其他文章。
+### 現在來解釋如何下載並使用FlowVPN。按照上述方法付完錢以後，選擇你的對應設備: 有iOS, linux, windows, mac, 或android，這裡用windows系統當作教學。關於其他設備，可以參考我的其他文章。
+
 
 
 
