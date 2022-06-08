@@ -458,12 +458,20 @@ Expressvpn 底下我用mac當作教學。 先到<a href="https://www.expressvpn.
 
 ### 到官方網站下載surfshark以後
 
+
 ### 進行安裝
+
+
+<img src="./image/surfshark/5.PNG" alt="drawing" width="600"/>
 
 ### 輸入帳號密碼
 
+
+<img src="./image/surfshark/6.PNG" alt="drawing" width="600"/>
+
 ### 即可連線成功。
 
+<img src="./image/surfshark/7.PNG" alt="drawing" width="600"/>
 
 
 ## flowvpn 的安裝教學
