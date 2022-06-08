@@ -423,11 +423,17 @@ Expressvpn 底下我用mac當作教學。 先到<a href="https://www.expressvpn.
 ### 获取激活码(activation code)
 要在的 Mac 电脑上使用 ExpressVPN，找到你的activation code。
 
+<img src="./image/exp/4.PNG" alt="drawing" width="600"/>
+
 ### 第二步 安装应用程序
 在電腦上找到下载的文件并打开它。弹出一个窗口。系統會問你 “是否允許运行一个程序来确定是否可以安装该软件。” 单击继续，然后继续单击继续，直到到达“安装类型”屏幕。选择安装local位置，点击安装。等待安装完成，然后单击关闭
 
+<img src="./image/exp/5.PNG" alt="drawing" width="600"/>
+
 ### 第三部: 登入expressvpn開始使用:
 首先sign in ExpressVPN，輸入你的帳號密碼(或是剛剛的activation code)，mac系統可能會詢問你是否允許在VPN 配置中添加 ExpressVPN IKEv2，请单击允许继续。
+
+<img src="./image/exp/6.PNG" alt="drawing" width="600"/>
 
 ### 第四部: 使用方法
 要连接到 VPN 服务器位置，请单击中間的圈圈按钮。. 默认情况下，ExpressVPN 会建议为自動提供最佳体验的位置，称为智能位置。點選以後，紅色的圈圈會變成綠色的 (顯示connected)。表示連線上了，這時候可以測試看看可否翻牆成功。
