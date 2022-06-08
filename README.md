@@ -479,6 +479,7 @@ Expressvpn 底下我用mac當作教學。 先到<a href="https://www.expressvpn.
 ### 現在來解釋如何下載並使用FlowVPN。按照上述方法付完錢以後，選擇你的對應設備: 有iOS, linux, windows, mac, 或android，這裡用windows系統當作教學。關於其他設備，可以參考我的其他文章。
 
 
+<img src="./image/flowvpn/5.PNG" alt="drawing" width="600"/>
 
 
 ## 你必须知道的VPN的核心知识
