@@ -481,6 +481,10 @@ Expressvpn 底下我用mac當作教學。 先到<a href="https://www.expressvpn.
 
 <img src="./image/flowvpn/5.PNG" alt="drawing" width="600"/>
 
+### 點選連線(connect)，下方選單可以選取連線國家。參考下方圖片，連線上以後，windows電腦會出現flowvpn已經connected。
+
+<img src="./image/flowvpn/6.PNG" alt="drawing" width="600"/>
+
 
 ## 你必须知道的VPN的核心知识
 
