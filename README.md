@@ -173,6 +173,13 @@ Expressvpn 支援: 国内银行卡购买ExpressVPN，包含visa或是master card
 
 ## flowvpn免費試用兩天 手把手購買教學
 
+### 第一步驟: 按照上面的方式購買完成以後，到<a href="https://www.flowvpx.com/download/">flowvpn官方網站</a> 下載自己的使用設備
+有windows, mac, android, iOS 可供選擇。
+
+### 第二步驟: 打開安裝檔案，輸入帳號密碼，即可開始使用。
+
+
+
 
 ### 第一步: 到 <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(免費試用兩天)</a> 輸入電子郵件跟密碼 (千萬不要出錯)
 
