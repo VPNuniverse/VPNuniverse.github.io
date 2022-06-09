@@ -455,33 +455,34 @@ Expressvpn 底下我用mac当作教学。 先到<a href="https://www.expressvpn.
 ## Surfshark 的安装教学
 
 现在来解释如何下载并使用Surfshark。按照上述方法付完钱以后，选择你的对应设备: 有iOS, linux, windows, mac, 或android，这裡用windows系统当作教学。关于其他设备，可以参考我的其他文章。
-
-### 到官方网站下载surfshark以后
-
-
-### 进行安装
-
+### 到官方网站下载surfshark以后，进行安装
+可參考下方圖片，系統會詢問你是否安裝，都點是:
 
 <img src="./image/surfshark/5.PNG" alt="drawing" width="600"/>
 
 ### 输入帐号密码
 
+下載完成以後，打開系統，輸入帳號密碼即可登入。
 
 <img src="./image/surfshark/6.PNG" alt="drawing" width="600"/>
 
 ### 即可连线成功。
+
+點選中間的connected按鈕，即可連線，這時候會出現surfshark正在運行的畫面，左邊可以選擇連線國家，請參考下方是意圖。
 
 <img src="./image/surfshark/7.PNG" alt="drawing" width="600"/>
 
 
 ## flowvpn 的安装教学
 
-### 现在来解释如何下载并使用FlowVPN。按照上述方法付完钱以后，选择你的对应设备: 有iOS, linux, windows, mac, 或android，这裡用windows系统当作教学。关于其他设备，可以参考我的其他文章。
-
-
+### 现在来解释如何下载并使用FlowVPN。按照上述方法付完钱以後
+选择你的对应设备: 有iOS, linux, windows, mac, 或android，这裡用windows系统当作教学。关于其他设备，可以参考我的其他文章。
 <img src="./image/flowvpn/5.PNG" alt="drawing" width="600"/>
 
+### 下載完軟體以後，點擊安裝，安裝完畢即可
+
 ### 点选连线(connect)，下方选单可以选取连线国家。参考下方图片，连线上以后，windows电脑会出现flowvpn已经connected。
+可以選擇國家
 
 <img src="./image/flowvpn/6.PNG" alt="drawing" width="600"/>
 
