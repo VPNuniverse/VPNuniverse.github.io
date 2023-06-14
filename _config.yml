@@ -28,7 +28,7 @@ description: >- # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://vpnuniverse.github.io'
 
-github: ""
+github: 
   username: github_username # change to your github username
 
 twitter:
@@ -53,7 +53,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: "2e4ac4d85429b118" # fill in your Google Analytics ID
+  id: 2e4ac4d85429b118 # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
