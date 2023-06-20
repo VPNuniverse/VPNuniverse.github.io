@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 
+avatar: https://github.com/VPNuniverse/VPNuniverse.github.io/blob/main/image/avatar.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
