@@ -9,7 +9,7 @@ color:
 logo_url: https://github.githubassets.com/images/icons/emoji/globe.png  # Ícono global
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 buttons:
-  zip_url: https://github.com/hsiav/hsiav.github.io
+  zip_url: https://github.com/VPNuniverse/VPNuniverse.github.io
   zip_title: Download the Guide
   zip_hide: false
   tar_hide: true
