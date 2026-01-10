@@ -362,7 +362,7 @@ Si al abrir no puedes comprar porque usas otra VPN, regístrate en [FlowVPN](htt
 <img src="./image/strong/s2-1.PNG" alt="Registro FlowVPN" width="1000"/>
 
 Tras registrarte en FlowVPN, selecciona Reino Unido. El plan de 1 año cuesta solo 43 USD (nota: válido por 12 meses; para renovar, usa un nuevo email con nuestro enlace de descuento).  
-<img src="./image/strong/s3-1.PNG" alt="Plan StrongVPN" width="1000"/>
+<img src="./image/strong/s3-1.png" alt="Plan StrongVPN" width="1000"/>
 
 ### Paso 3: Elige tu método de pago
 Desplázate hacia abajo y selecciona pagos internacionales, tarjetas de banco (incluyendo Visa o MasterCard, también acepta tarjetas extranjeras), o PayPal.  
