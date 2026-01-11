@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Recomendación de VPNs globales - Actualización reciente"
-description: "Descubre las mejores VPNs en hsiav.github.io: desbloquea Netflix, juega FIFA sin lag y protege tu Wi-Fi en cafeterías."
+description: "Descubre las mejores VPNs en https://vpnuniverse.github.io: desbloquea Netflix, juega FIFA sin lag y protege tu Wi-Fi en cafeterías."
 ---
 
 
