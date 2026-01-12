@@ -311,7 +311,7 @@ Surfshark excels at unblocking: Netflix in ~20 libraries (US, UK, Japan, France,
 <a name="flowvpn-2-day-free-trial"></a>
 ### 4. [FlowVPN – 2-Day Free Trial](https://www.flowvpx.com/sign-up/?locale=en&special=FREETRIAL&r=35-890485.w_github)
 
-<img src="./image/speed_test/download.jpg" alt="FlowVPN Speed Test Results" width="1000"/>
+<img src="./image/speed_test/login.jpg" alt="FlowVPN login" width="1000"/>
 
 **FlowVPN** stands out with its generous **2-day completely free trial** (no card required in most cases) — perfect for testing everything risk-free before committing. It's a practical, budget-friendly choice that's especially popular with students, light users, and anyone wanting solid performance without breaking the bank.
 
