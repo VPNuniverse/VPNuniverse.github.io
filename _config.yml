@@ -3,9 +3,9 @@ description: Your global VPN guide - Unlock Netflix, secure your privacy, and ga
 show_downloads: true
 remote_theme: tuur29/pages-themes-cayman
 color:
-  header: "#0f172a"          
-  gradient_left: "#4f83cc"   
-  gradient_right: "#1e3a8a"  
+  header: "#0f172a"
+  gradient_left: "#065f46"   
+  gradient_right: "#064e3b"  
 logo_url: https://github.githubassets.com/images/icons/emoji/globe.png  # Ícono global
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 buttons:
