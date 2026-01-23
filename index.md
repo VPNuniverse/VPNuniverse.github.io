@@ -57,6 +57,16 @@ Speed is everything with a VPN. If your connection crawls, you’ll stop using i
 We tested every service on a true 1 Gbps line using Ookla Speedtest, nPerf, Netflix Fast, and CLI tools. We take the median across all tools for accurate real-world results, running tests morning and evening daily for consistency.
 
 
+<!-- NEWS-START -->
+### 📰 Industry Context (January 21, 2026)
+
+- [Trump doubles down on Greenland ahead of Davos visit, saying there is 'no going back'](https://www.bbc.com/news/articles/cvgr19m642zo?at_medium=RSS&at_campaign=rss)
+- [Lyse Doucet: Trump is shaking the world order more than any president since WW2](https://www.bbc.com/news/articles/cx2lej7d52po?at_medium=RSS&at_campaign=rss)
+- [Driver killed in second deadly Spain train crash in days](https://www.bbc.com/news/articles/c1m78xl0gmpo?at_medium=RSS&at_campaign=rss)
+- [Locked exits, panic and desperate calls for help: Survivors tell of mall fire horror](https://www.bbc.com/news/articles/c1ev4z4n5dzo?at_medium=RSS&at_campaign=rss)
+
+<!-- NEWS-END -->
+
 ## Content Navigation
 
 ### 1. [Basics of Free & Unrestricted Internet Access](#basics-of-unrestricted-access)
