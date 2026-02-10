@@ -58,12 +58,12 @@ We tested every service on a true 1 Gbps line using Ookla Speedtest, nPerf, Netf
 
 
 <!-- NEWS-START -->
-### 🔎 Related Update (February 01, 2026)
+### 🔎 Related Update (February 04, 2026)
 
-- [Epstein sent $75,000 to accounts linked to Mandelson, files suggest](https://www.bbc.com/news/articles/cn82elvzpz7o?at_medium=RSS&at_campaign=rss)
-- [Iran's supreme leader warns of regional war if US attacks](https://www.bbc.com/news/articles/cx20z5nv9jxo?at_medium=RSS&at_campaign=rss)
-- [Israel to ban MSF from working in Gaza over refusal to provide staff list](https://www.bbc.com/news/articles/cvg1ymmkpkro?at_medium=RSS&at_campaign=rss)
-- [Teenager dies from Swiss bar fire injuries, bringing death toll to 41](https://www.bbc.com/news/articles/c0lxr1ne52ro?at_medium=RSS&at_campaign=rss)
+- [Thousands without power in freezing Ukraine as renewed Russian strikes continue](https://www.bbc.com/news/articles/crley6x0dgzo?at_medium=RSS&at_campaign=rss)
+- [Melinda French Gates says ex-husband Bill has questions to answer over Epstein](https://www.bbc.com/news/articles/cr4kyk9nv5lo?at_medium=RSS&at_campaign=rss)
+- [Andrew and Epstein asked exotic dancer for 'sex acts,' legal letter claims](https://www.bbc.com/news/articles/ckgkjj5e28ko?at_medium=RSS&at_campaign=rss)
+- [Israeli strikes kill 20 in Gaza, hospitals say, after soldier wounded by gunfire](https://www.bbc.com/news/articles/cpqyg0g5r0po?at_medium=RSS&at_campaign=rss)
 
 <!-- NEWS-END -->
 
