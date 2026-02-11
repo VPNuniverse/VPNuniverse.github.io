@@ -58,12 +58,12 @@ We tested every service on a true 1 Gbps line using Ookla Speedtest, nPerf, Netf
 
 
 <!-- NEWS-START -->
-### 🔎 Related Update (February 04, 2026)
+### 🔎 Related Update (February 10, 2026)
 
-- [Thousands without power in freezing Ukraine as renewed Russian strikes continue](https://www.bbc.com/news/articles/crley6x0dgzo?at_medium=RSS&at_campaign=rss)
-- [Melinda French Gates says ex-husband Bill has questions to answer over Epstein](https://www.bbc.com/news/articles/cr4kyk9nv5lo?at_medium=RSS&at_campaign=rss)
-- [Andrew and Epstein asked exotic dancer for 'sex acts,' legal letter claims](https://www.bbc.com/news/articles/ckgkjj5e28ko?at_medium=RSS&at_campaign=rss)
-- [Israeli strikes kill 20 in Gaza, hospitals say, after soldier wounded by gunfire](https://www.bbc.com/news/articles/cpqyg0g5r0po?at_medium=RSS&at_campaign=rss)
+- [Maxwell refuses to answer questions about Epstein in congressional hearing](https://www.bbc.com/news/articles/cvgv5yre39zo?at_medium=RSS&at_campaign=rss)
+- [Australia police defend actions after violence at protest over Israeli president visit](https://www.bbc.com/news/articles/cn0zed0dekgo?at_medium=RSS&at_campaign=rss)
+- [Trump threatens to block opening of US-Canada bridge](https://www.bbc.com/news/articles/cpw052pkvl0o?at_medium=RSS&at_campaign=rss)
+- [Catherine O'Hara's cause of death confirmed as blood clot](https://www.bbc.com/news/articles/ckg19nql0w8o?at_medium=RSS&at_campaign=rss)
 
 <!-- NEWS-END -->
 

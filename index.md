@@ -58,12 +58,12 @@ We tested every service on a true 1 Gbps line using Ookla Speedtest, nPerf, Netf
 
 
 <!-- NEWS-START -->
-### 🔎 Related Update (February 10, 2026)
+### 📌 Background News (February 11, 2026)
 
-- [Maxwell refuses to answer questions about Epstein in congressional hearing](https://www.bbc.com/news/articles/cvgv5yre39zo?at_medium=RSS&at_campaign=rss)
-- [Australia police defend actions after violence at protest over Israeli president visit](https://www.bbc.com/news/articles/cn0zed0dekgo?at_medium=RSS&at_campaign=rss)
-- [Trump threatens to block opening of US-Canada bridge](https://www.bbc.com/news/articles/cpw052pkvl0o?at_medium=RSS&at_campaign=rss)
-- [Catherine O'Hara's cause of death confirmed as blood clot](https://www.bbc.com/news/articles/ckg19nql0w8o?at_medium=RSS&at_campaign=rss)
+- [Tumbler Ridge mass shooting: What we know so far](https://www.bbc.com/news/articles/c1e98w35qyjo?at_medium=RSS&at_campaign=rss)
+- [Watch: BBC in Tehran sees government's 'political reply' to massive protests](https://www.bbc.com/news/videos/cewz2lxq2gvo?at_medium=RSS&at_campaign=rss)
+- [US lawmakers tell BBC Andrew should testify over Epstein files](https://www.bbc.com/news/articles/cx2gmde0vjlo?at_medium=RSS&at_campaign=rss)
+- [US reopens airspace over Texas border town after 'drone incursion'](https://www.bbc.com/news/articles/cqxdwjn578do?at_medium=RSS&at_campaign=rss)
 
 <!-- NEWS-END -->
 
