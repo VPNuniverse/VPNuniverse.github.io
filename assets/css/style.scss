@@ -49,3 +49,171 @@ $hr-border-color: #eff0f1 !default;
 {% if site.hide_first_title %}
     .main-content h1:first-child { display: none; }
 {% endif %}
+
+
+/* ===== English VPN Site Theme / Clean Global Style ===== */
+
+:root {
+  --site-bg-start: #f1f5f9;
+  --site-bg-end: #ffffff;
+  --site-primary: #0f766e;
+  --site-primary-dark: #115e59;
+  --site-primary-soft: #ccfbf1;
+  --site-heading: #0f172a;
+  --site-text: #1e293b;
+  --site-muted: #64748b;
+  --site-border: #cbd5e1;
+  --site-card: #ffffff;
+  --site-shadow: 0 14px 38px rgba(15, 23, 42, 0.08);
+}
+
+body {
+  background:
+    radial-gradient(circle at top left, rgba(15, 118, 110, 0.13), transparent 32%),
+    linear-gradient(180deg, var(--site-bg-start) 0%, var(--site-bg-end) 360px) !important;
+  color: var(--site-text) !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter",
+    "Noto Sans", Arial, sans-serif !important;
+  line-height: 1.82 !important;
+}
+
+.page-header {
+  background-image: linear-gradient(135deg, #0f172a, var(--site-primary-dark)) !important;
+  padding: 4.5rem 1rem 4rem !important;
+}
+
+.project-name {
+  font-weight: 900 !important;
+  letter-spacing: -0.04em !important;
+}
+
+.project-tagline {
+  opacity: 0.92 !important;
+}
+
+.main-content {
+  max-width: 1080px !important;
+  padding: 2.4rem 1.3rem !important;
+  font-size: 17px !important;
+}
+
+.main-content h1 {
+  margin: 32px 0 22px !important;
+  padding: 30px 28px !important;
+  border-radius: 28px !important;
+  background: linear-gradient(135deg, #ffffff 0%, var(--site-primary-soft) 100%) !important;
+  border: 1px solid var(--site-border) !important;
+  box-shadow: var(--site-shadow) !important;
+  color: var(--site-heading) !important;
+  font-size: clamp(2rem, 4vw, 3.15rem) !important;
+  line-height: 1.18 !important;
+  letter-spacing: -0.035em !important;
+}
+
+.main-content h2 {
+  margin-top: 52px !important;
+  padding: 16px 18px !important;
+  border-left: 7px solid var(--site-primary) !important;
+  border-bottom: 1px solid var(--site-border) !important;
+  border-radius: 16px !important;
+  background: linear-gradient(90deg, var(--site-primary-soft), rgba(255,255,255,0)) !important;
+  color: var(--site-heading) !important;
+  font-size: 1.62rem !important;
+}
+
+.main-content h3 {
+  margin-top: 34px !important;
+  color: var(--site-primary-dark) !important;
+  font-size: 1.28rem !important;
+}
+
+.main-content p {
+  margin: 16px 0 !important;
+}
+
+.main-content a {
+  color: var(--site-primary) !important;
+  font-weight: 700 !important;
+  text-decoration: none !important;
+  text-underline-offset: 3px !important;
+}
+
+.main-content a:hover {
+  color: var(--site-primary-dark) !important;
+  text-decoration: underline !important;
+}
+
+.main-content img {
+  max-width: 100% !important;
+  height: auto !important;
+  display: block !important;
+  margin: 26px auto !important;
+  border-radius: 18px !important;
+  box-shadow: var(--site-shadow) !important;
+  border: 1px solid rgba(203, 213, 225, 0.9) !important;
+  background: #fff !important;
+}
+
+.main-content table {
+  width: 100% !important;
+  display: block !important;
+  overflow-x: auto !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  margin: 30px 0 !important;
+  background: var(--site-card) !important;
+  border: 1px solid var(--site-border) !important;
+  border-radius: 18px !important;
+  box-shadow: var(--site-shadow) !important;
+}
+
+.main-content th {
+  background: var(--site-primary-soft) !important;
+  color: var(--site-primary-dark) !important;
+  font-weight: 800 !important;
+  white-space: nowrap !important;
+}
+
+.main-content th,
+.main-content td {
+  padding: 15px 17px !important;
+  border-bottom: 1px solid var(--site-border) !important;
+  vertical-align: middle !important;
+}
+
+.main-content blockquote {
+  margin: 30px 0 !important;
+  padding: 22px 24px !important;
+  background: #ffffff !important;
+  border-left: 6px solid var(--site-primary) !important;
+  border-radius: 18px !important;
+  box-shadow: var(--site-shadow) !important;
+  color: #334155 !important;
+}
+
+.main-content div[align="center"] {
+  border-radius: 24px !important;
+  box-shadow: var(--site-shadow) !important;
+  border-width: 1px !important;
+}
+
+@media (max-width: 720px) {
+  .page-header {
+    padding: 3.2rem 1rem 3rem !important;
+  }
+
+  .main-content {
+    padding: 1.6rem 1rem !important;
+    font-size: 16px !important;
+  }
+
+  .main-content h1 {
+    padding: 24px 18px !important;
+    border-radius: 22px !important;
+  }
+
+  .main-content h2 {
+    padding: 14px 15px !important;
+    font-size: 1.38rem !important;
+  }
+}
