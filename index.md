@@ -63,6 +63,10 @@ GitHub Pages makes the update history, daily charts, and site structure easy to 
 
 This guide compares paid VPN options first, then explains technical details, free VPN risks, proxy differences, streaming checks, and setup tutorials below.
 
+## Streaming VPN Guide
+
+If your main use case is Netflix, Disney+, Hulu, Max, Prime Video, sports, or smart TV streaming, see the focused [Best VPN for Streaming 2026](./best-vpn-for-streaming/) guide. It uses the same daily speed chart, Netflix checks, Disney+ checks, and VPN deal links from VPN Universe.
+
 <!-- NEWS_START -->
 #### New Android 16 VPN Bypass Confirmed—June 3, 2026
 - **New Android 16 VPN Bypass Confirmed—And There’s No Fix From Google**: A recently discovered bypass in Android 16 allows users to access local networks even when connected to a VPN, with no current fix from Google. [Read More](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQlBXLVB3ekNlcHJ2czlEOG82UHkxcHB4X2VMdWJtaHRfYjQwUmIwQmhxUE5BdG5QODNDTnRYbkwxRjJYWEk0NG52ZERXUjg2Zms2WThLTTR6YVBYZ05yRXVEeTl6dGRza05uYlhtcUt6OHpicWZFanVLdzJ3QXZPNm9Yc2kxM2hfdEtqVVp0eTdMcm40cnZveVFkdWVMaUtmUnlvYzhJcF9BNWJ3aHN5WE1VeVVkUQ?oc=5)
