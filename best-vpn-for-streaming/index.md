@@ -11,6 +11,8 @@ If you want a VPN mainly for streaming, the question is not just "which VPN is f
 
 This page is a focused streaming add-on to the main [VPN Universe comparison](../). It uses the same VPN group, affiliate deals, daily speed chart, and streaming connection charts already tracked by this project.
 
+<img src="../image/streaming/vpn-streaming-setup-overview.png" alt="VPN streaming setup overview for app, server, connection, and streaming test" width="1000"/>
+
 ## Quick Picks for Streaming
 
 | Best For | Pick | Why |
@@ -40,6 +42,8 @@ This page is a focused streaming add-on to the main [VPN Universe comparison](..
 | Apple TV | Native tvOS app if available, or router/Smart DNS setup | tvOS support is improving, but older Apple TV setups may still require router-level configuration. |
 | Roku / Chromecast / game consoles | Router VPN or Smart DNS | These devices usually do not support normal VPN apps directly. |
 | Smart TV | Native app if supported, otherwise router VPN | Check support before buying; many Smart TVs cannot install standard VPN apps. |
+
+<img src="../image/streaming/vpn-streaming-device-map.png" alt="Best VPN setup method by streaming device" width="1000"/>
 
 ## Daily Streaming VPN Speed Chart
 
@@ -108,6 +112,8 @@ Streaming access changes. A VPN can work today and need a different server tomor
 
 ## Installation Guides by Device
 
+<img src="../image/streaming/vpn-streaming-installation-flow.png" alt="VPN streaming installation flow from account creation to playback test" width="1000"/>
+
 ### Windows or Mac
 
 1. Choose a VPN and create an account.
@@ -155,6 +161,8 @@ Apple TV setup is more provider-dependent than desktop or mobile setup. Verify c
 Router setup is useful when your device cannot install VPN apps directly, but it is more technical and can reduce speed if the router hardware is weak.
 
 ## Troubleshooting Streaming VPN Blocks
+
+<img src="../image/streaming/vpn-streaming-troubleshooting-map.png" alt="Troubleshooting map for common streaming VPN blocks" width="1000"/>
 
 | Problem | Likely Cause | Fix |
 |---|---|---|
