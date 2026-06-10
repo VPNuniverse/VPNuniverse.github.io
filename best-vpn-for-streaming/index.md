@@ -110,6 +110,32 @@ Streaming access changes. A VPN can work today and need a different server tomor
 5. If blocked, switch to another server in the same region.
 6. If the VPN still fails, contact support or use the refund window.
 
+
+## Refund-Window Streaming Test Plan
+
+Competitor rankings are useful, but streaming VPN performance changes often. Treat the refund window as your own hands-on test period.
+
+| Test | What Good Looks Like | Red Flag |
+|---|---|---|
+| Netflix / Disney+ / Hulu login | App opens normally and shows the expected catalog | Proxy warning, endless loading, or wrong region after reconnecting |
+| 4K or HD playback | Video starts quickly and stays stable for 20-30 minutes | Buffering after every server change |
+| TV device support | Fire TV, Apple TV, router, or Smart DNS setup is documented and usable | Works on laptop only, but not on your TV setup |
+| Public Wi-Fi | App connects at hotel, airport, school, or cafe Wi-Fi | Captive portal or DNS issues break the VPN repeatedly |
+| Support chat | Support suggests specific servers/protocols for your app | Generic answers with no streaming-specific help |
+| Renewal price | You understand the first-term and renewal cost | Cheap first term but unclear renewal pricing |
+
+## Sports and Live Event Streaming Notes
+
+For US and Canada users, live sports can be harder than normal on-demand streaming because apps often check location, billing region, blackout rules, and device data at the same time. This matters for ESPN+, YouTube TV, regional sports networks, NHL/NBA/MLB/NFL apps, and major international events such as the 2026 World Cup.
+
+Use this order when testing sports streams:
+
+1. Pick one target service and one target region.
+2. Use a nearby server first instead of jumping across countries.
+3. Avoid switching locations mid-game.
+4. Test before the event starts, not at kickoff.
+5. Keep the service rules in mind; VPNs can improve privacy and travel access, but they do not override platform terms.
+
 ## Installation Guides by Device
 
 <img src="../image/streaming/vpn-streaming-installation-flow.png" alt="VPN streaming installation flow from account creation to playback test" width="1000"/>
