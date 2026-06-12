@@ -706,7 +706,7 @@ This isn't theory — it's battle-tested. Use our standards, rankings, and fresh
    Note: You can install on way more devices — this limit is only for active simultaneous use.
 
 3. **Split Tunneling (VPN Split Tunneling)**  
-   Lets you route specific apps through the VPN while others use your normal connection. Example: Keep local streaming (iQiyi, Youku) fast without VPN, while routing browsers to IEEE, Google, or Netflix through VPN. Huge speed boost — essential for avoiding slowdowns.
+   Lets you route specific apps through the VPN while others use your normal connection. Example: Keep banking, work dashboards, or local apps outside the VPN while routing Netflix, Disney+, sports streams, or travel browsing through the VPN. That keeps everyday apps fast while still protecting the sessions that need it.
 
 4. **Unlimited Bandwidth / No Data Caps**  
    Bandwidth = how much data you can push at once (critical for HD/4K streaming). Unlimited bandwidth means no throttling from shared users or daily caps (e.g., 10GB/day = only 2–3 HD movies). All our picks offer **truly unlimited** data.
