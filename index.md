@@ -1010,7 +1010,7 @@ Free VPNs sound tempting, but they almost always come with serious downsides tha
 
 **Real-World Examples**: Users of free VPNs like Lantern, Hola, Betternet, or SuperVPN have reported data leaks, account takeovers, or even fines in strict regions. A single breach can cost far more than a $3–6/mo paid subscription.
 
-**Bottom Line**: Free VPNs are not worth the risk. Invest in a premium one — even the cheapest paid options (like Surfshark at ~$2/mo long-term) deliver real privacy, speed, and reliability.
+**Bottom Line**: Free VPNs are not worth the risk. Invest in a premium one — even the cheapest paid options (like Surfshark long-term plans when the checkout confirms the final total) deliver real privacy, speed, and reliability.
 
 ## Why Building Your Own VPN Is Not Recommended
 <a name="why-not-build-your-own-vpn"></a>
