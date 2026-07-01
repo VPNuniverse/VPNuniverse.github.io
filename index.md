@@ -390,6 +390,8 @@ Surfshark excels at unblocking: Netflix in ~20 libraries (US, UK, Japan, France,
 
 FlowVPN delivers competitive speeds and stability, often matching or beating many European and American providers (see the speed test image above for real results). They support international payments and offer multilingual customer support.
 
+**July 2026 Windows app update:** FlowVPN says its new Windows app adds Split Tunnelling / VPN Bypass, new HTTPS or SMTP tunnelling protocols, and a cleaner interface. For Windows users, this makes FlowVPN more useful as a quick trial or backup VPN before committing to a long plan. It does not change our main buying logic: StrongVPN remains the clearer one-year value pick, while FlowVPN is best tested first with the short trial. See FlowVPN's Windows app note here: [FlowVPN Windows Application](https://www.flowvpn.com/windows-application/).
+
 #### FlowVPN Key Features
 
 - **Incredible 1-2 day free trial** — try before you buy, low-friction testing
