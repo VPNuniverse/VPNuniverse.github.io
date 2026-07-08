@@ -74,12 +74,14 @@ Sports streaming VPN pages are often too vague. Before buying, match the VPN to 
 
 | Streaming situation | What to test in the refund window | Practical first pick |
 |---|---|---|
-| Traveling outside the US and watching FOX, FS1, YouTube TV, Hulu + Live TV, Sling, Fubo or DirecTV | Login, location prompt, 1080p/4K playback, and server switching during peak match hours | [ExpressVPN](https://www.expressvpn.com/top/homepage?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&irgwc=1&afsrc=1) if you want premium polish; [StrongVPN](https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github_en&data1=vpnuniverse&data2=sports_streaming_table) if price matters more |
+| Traveling outside the US and watching FOX, FS1, YouTube TV, Hulu + Live TV, Sling, Fubo, DirecTV, Paramount+ or Peacock | Login, location prompt, 1080p/4K playback, and server switching during peak match hours | [ExpressVPN](https://www.expressvpn.com/top/homepage?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&irgwc=1&afsrc=1) if you want premium polish; [StrongVPN](https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github_en&data1=vpnuniverse&data2=sports_streaming_table) if price matters more |
 | Using free home-country streams while abroad, such as BBC iPlayer, ITVX, SBS On Demand, RTÉ Player or similar services | Whether your account, postcode/profile, subtitles and live stream start without proxy errors | ExpressVPN for the safest premium route; StrongVPN as the lower-cost paid test |
 | Watching with family on multiple phones, laptops and TV devices | Number of devices, TV app support, router/Apple TV/Fire TV setup, and simultaneous playback | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=sports_devices) |
 | Unsure whether any VPN will work for your app | Test for 24-72 hours before committing to a longer plan | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=en&special=FREETRIAL&r=35-890485.w_github) for a short trial, then move to a long-term pick if it solves the problem |
 
 Do not wait until kickoff. Install the VPN at least a day before the match, test on the same device you will actually use, and check the renewal price before the refund window closes.
+
+For US viewers, treat the broadcaster as the real purchase intent. A VPN that works for Netflix is not automatically the right pick for YouTube TV, Hulu + Live TV, Peacock, Paramount+, ESPN or FOX Sports during a live match. Test the exact app, the exact device, and the exact plan you will use before keeping any long subscription.
 
 ## Device Decision Table
 
