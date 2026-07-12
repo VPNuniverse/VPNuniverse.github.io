@@ -41,6 +41,12 @@ Most VPN buyers do not need a long technical lecture first. Start with the probl
 | Test before paying for a long plan | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=en&special=FREETRIAL&r=35-890485.w_github) | Whether the app solves your real problem in the first 24-48 hours. |
 | Hotel, airport, school, or coffee shop Wi-Fi | StrongVPN or ExpressVPN | Kill switch, auto-connect, DNS leak tests, email, banking, and work dashboards. |
 
+## Disney+ Streaming Shortcut
+
+If you came here for **Disney+**, start with the focused [Best VPN for Streaming](./best-vpn-for-streaming/) guide. Disney+ problems are usually practical: login works but playback fails, the catalog changes, the Fire TV app behaves differently from the browser, or one VPN server works today and gets blocked later.
+
+For a value-first Disney+ test, start with [StrongVPN](https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github_en&data1=streaming&data2=disney_home). It is the lower-cost paid pick to test during the refund window before paying more for a premium brand. If you want the most polished premium route, use ExpressVPN; if the whole household needs many devices, use Surfshark.
+
 ## Refund-Window Test Checklist
 
 Before you keep any VPN plan, run a practical test instead of trusting a ranking page:
