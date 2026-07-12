@@ -28,6 +28,8 @@ Use the refund window like a real test, not a vague promise. First, try [StrongV
 
 If that test works, you probably do not need to pay premium pricing immediately. Move to ExpressVPN only if you want more polished apps and premium support; choose Surfshark if many devices matter more than one-device simplicity; use FlowVPN if you still want a short compatibility trial before a long plan.
 
+<img src="./image/speed_test/vpn_streaming_buyer_dashboard.png?v=20260712-dashboard" alt="30-minute streaming VPN buyer test dashboard" width="1000"/>
+
 ## Why This Page Exists
 
 Many GitHub-related VPN searches lead to free node lists, outdated proxy collections, cracked VPN APKs, or repositories that stop updating after a few weeks. Those resources may be useful for technical experiments, but they are not always safe for daily browsing, payment accounts, work logins, travel, streaming, or long-term privacy.
