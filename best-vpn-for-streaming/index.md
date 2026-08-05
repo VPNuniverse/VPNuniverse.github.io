@@ -5,11 +5,13 @@ description: "A practical streaming VPN comparison for US and Canada users, usin
 ---
 
 # Best VPN for Streaming 2026 - Netflix, Disney+, Hulu & Daily Speed Tests
-**Last updated:** July 12, 2026 - VPN Universe
+**Last updated:** August 5, 2026 - VPN Universe
 
 If you want a VPN mainly for streaming, the question is not just "which VPN is fastest?" A good streaming VPN needs stable speeds, working apps, reliable server switching, and enough consistency for Netflix, Disney+, Hulu, Max, Prime Video, YouTube TV, ESPN+, and other services that frequently block shared VPN IPs.
 
 This page is a focused streaming add-on to the main [VPN Universe comparison](../). It uses the same VPN group, affiliate deals, daily speed chart, and streaming connection charts already tracked by this project.
+
+> Update: the main streaming comparison is now also included directly on the VPN Universe homepage for easier navigation. Start with [Best VPN for Streaming on GitHub](../#best-vpn-for-streaming-on-github), then use this page as the longer supporting guide.
 
 <img src="../image/streaming/vpn-streaming-setup-overview.png" alt="VPN streaming setup overview for app, server, connection, and streaming test" width="1000"/>
 
