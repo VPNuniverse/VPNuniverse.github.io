@@ -19,6 +19,18 @@ That changes our verdict. A two-year deal is not automatically cheaper if you on
 
 **Our rule:** the best VPN is the least expensive option that passes your actual device, network, and app test - not the provider that wins the most generic categories.
 
+## Evidence Ladder: What This Page Can Actually Prove
+
+Most comparison pages blend measurements, provider claims, and predictions into one confident score. We keep them separate so a fast chart is not mistaken for a streaming guarantee.
+
+| Evidence level | What belongs here | How to use it |
+|---|---|---|
+| Measured by this project | The dated speed chart and repeated provider comparison shown on this page | Use it to compare recent relative performance, not to predict your home connection. |
+| Verified at checkout | Total charge, plan length, tax, renewal terms, refund conditions, and supported payment method | Confirm these details on the provider page before paying; a low displayed monthly rate may require a long upfront purchase. |
+| Must pass on your setup | Windows behavior, hotel or school Wi-Fi, Fire TV, login, live playback, subtitles, and server switching | Run the 30-minute test on the device and app you actually use. No ranking can complete this step for you. |
+
+GitHub adds one useful form of accountability: the page and its changes are public. It still does not turn a daily speed result into proof that every streaming platform or network will work. That boundary is part of the recommendation, not a disclaimer hidden at the end.
+
 ## GitHub VPN Reality Check
 
 A GitHub result can mean four very different things. Treating them as interchangeable is where many users make an expensive or unsafe mistake.
