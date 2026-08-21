@@ -243,6 +243,15 @@ If your main use case is Netflix, Disney+, Hulu, Max, Prime Video, sports, or sm
 - **Android 17 strengthens scam, theft, and permission protections**: Google announced temporary precise-location access, a contact picker, and stronger device safeguards; a VPN still works best alongside updates, MFA, and safe browsing habits. [Official announcement](https://blog.google/security/whats-new-in-android-security-privacy-2026/)
 <!-- NEWS_END -->
 
+## Focused VPN Guides
+
+The homepage compares the same four providers across many uses. For a faster answer, use the guide that matches the problem you are trying to solve:
+
+- **Windows and GitHub downloads:** [Free VPN for Windows on GitHub: what is safe, what is limited, and when paid support is worth it](./free-vpn-github-windows/)
+- **Netflix, Disney+, Hulu and live TV:** [Best VPN for streaming with device and refund-window checks](./best-vpn-for-streaming/)
+
+These guides do not change the provider order used on this site. They narrow the decision to one device or one failure mode, then send you back to the daily test evidence on this page.
+
 ## Content Navigation
 
 ### 1. [Basics of Free & Unrestricted Internet Access](#basics-of-unrestricted-access)
