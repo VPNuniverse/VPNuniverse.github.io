@@ -5,7 +5,7 @@ description: "A GitHub-hosted VPN comparison for free VPN and Windows searchers,
 ---
 
 # VPN GitHub Comparison 2026 - Streaming, Speed Tests, Public Wi-Fi & VPN Deals
-**Last updated:** August 20, 2026 - VPN Universe
+**Last updated:** August 24, 2026 - VPN Universe
 
 VPN Universe is a GitHub-hosted VPN comparison project. It tracks the same VPN providers every day, then keeps the speed chart, streaming checks, price table, setup notes, and risk explanations in one place.
 
@@ -247,12 +247,12 @@ This guide compares paid VPN options first, then explains free VPN risks, proxy 
 If your main use case is Netflix, Disney+, Hulu, Max, Prime Video, sports, or smart TV streaming, start with the on-page [Best VPN for Streaming on GitHub](#best-vpn-for-streaming-on-github) section above. The older focused [Best VPN for Streaming 2026](./best-vpn-for-streaming/) page remains available as a longer supporting reference.
 
 <!-- NEWS_START -->
-#### August 20, 2026 VPN, Privacy and Cybersecurity News
-- **NCSC warns about zero-click email attacks**: an ongoing campaign can compromise unpatched Zimbra mail systems when a user merely views a malicious message; organizations should patch promptly and strengthen network monitoring. [Official advisory](https://www.ncsc.gov.uk/news/uk-and-partners-expose-russian-state-supported-actors-for-new-zero-click-phishing-campaign)
-- **Fortinet firewalls and VPN gateways remain attack targets**: NCSC recommends reviewing accounts and logs, updating edge devices, eliminating reused passwords, and enforcing MFA for VPN and management access. [Official advisory](https://www.ncsc.gov.uk/news/advice-following-global-targeting-of-fortinet-firewalls-and-vpn-gateways)
-- **Mozilla fixes serious Firefox and Firefox ESR flaws**: the July advisory covers site isolation, same-origin policy, sandbox escape, and memory-safety issues; users should verify that their browser is current. [Official advisory](https://www.mozilla.org/en-US/security/advisories/mfsa2026-69/)
-- **Cloudflare and major browsers develop privacy-first verification**: PACT aims to distinguish legitimate users, AI agents, and malicious automation without relying on invasive tracking. [Official announcement](https://www.cloudflare.com/press/press-releases/2026/cloudflare-collaborates-with-leading-browsers-to-develop-a-privacy-first-protocol-for-the-global-internet/)
-- **Android 17 strengthens scam, theft, and permission protections**: Google announced temporary precise-location access, a contact picker, and stronger device safeguards; a VPN still works best alongside updates, MFA, and safe browsing habits. [Official announcement](https://blog.google/security/whats-new-in-android-security-privacy-2026/)
+#### August 24, 2026 VPN, Privacy and Cybersecurity News
+- **Firefox 154 fixes multiple high-impact flaws**: Mozilla patched a sandbox escape, site-isolation issues, privilege-escalation bugs, and memory-safety problems; Firefox users should confirm that version 154 or later is installed. [Official advisory](https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/)
+- **A European VPN security standard enters approval**: ETSI's draft EN 304 620 defines security requirements and assessment criteria for VPN products under the EU Cyber Resilience Act; it remains a draft in the approval process. [Official status](https://portal.etsi.org/webapp/workprogram/Report_WorkItem.asp?WKI_ID=74409)
+- **Mullvad tests automatic multihop and an interactive server map**: Android 2026.9-beta1 can enable multihop when current settings require it and improves location search; this is a beta, not a general release. [Official release notes](https://github.com/mullvad/mullvadvpn-app/releases/tag/android%2F2026.9-beta1)
+- **ExpressVPN urges families to limit details in public school photos**: its latest research and IWF guidance warn that names, schools, locations, and birthdays can be misused; families should review visibility and consent before posting. [Official article](https://www.expressvpn.com/blog/back-to-school-photo-privacy/)
+- **VPN demand rises after new internet restrictions in Vietnam**: Proton VPN reports sign-ups reached roughly three times their early-month level after new social-media rules; Proton notes that the timing shows correlation rather than proof of a single cause. [Official observation](https://protonvpn.com/blog/vietnam-vpn-spike)
 <!-- NEWS_END -->
 
 ## Focused VPN Guides
@@ -298,7 +298,7 @@ These guides do not change the provider order used on this site. They narrow the
 ### 15. [Best VPN Features for Gaming – Level Up Your Play](#vpn-features-for-gaming)
 ### 16. [Step-by-Step Guide: Watching Global Streaming Content with a VPN](#guide-to-streaming-with-vpn)
 #### 17.1 [How Netflix & Hulu Detect & Block VPN Connections](#how-netflix-and-hulu-detect-and-block-vpns)
-### 17. [Detailed VPN Speed Test Report (Fresh Daily Update – August 20, 2026)](#detailed-vpn-speed-test-report)
+### 17. [Detailed VPN Speed Test Report (Fresh Daily Update – August 24, 2026)](#detailed-vpn-speed-test-report)
 #### 18.1 [Connection Success Rates by Continent](#vpn-connection-success-rates-by-continent)
 #### 18.2 [VPN Speed Tests Across Global Regions](#vpn-speed-tests-global-regions)
 #### 18.3 [Netflix Connection Success Rates by Continent](#netflix-connection-success-rates-by-continent)
@@ -309,7 +309,7 @@ These guides do not change the provider order used on this site. They narrow the
 ### 21. [FlowVPN for Apple TV – Why It Stands Out](#vpn-for-apple-tv)
 #### 23.1 [Common VPN Limitations & How to Solve Them](#vpn-limitations-and-solutions)
 
-**Last updated: August 20, 2026**
+**Last updated: August 24, 2026**
 
 >In today's world, truly stable and globally effective VPNs are becoming increasingly rare. Many review sites simply copy content from each other, quickly losing relevance. Some recommended VPNs perform poorly (or fail entirely) in certain regions, and unfortunately, a lot of reviewers aren't testing from those locations with real local experience. Over the past few years, streaming blocks, app location checks, public Wi-Fi risks, and account security alerts have made VPN choice more practical and less theoretical. Please read this article carefully to avoid common traps. This guide is based on my real-world experience and receives continuous daily updates so you can choose safe, working tools for streaming, gaming, and privacy. If you want a quick recommendation, jump to the suggestions section at the bottom.
 
@@ -1518,7 +1518,7 @@ Thanks for reading our fresh daily VPN guide. Stay secure, game hard, and unlock
 
 
 <a name="detailed-vpn-speed-test-report"></a>
-## Detailed VPN Speed Test Report (Fresh Daily Update – August 20, 2026)
+## Detailed VPN Speed Test Report (Fresh Daily Update – August 24, 2026)
 
 ### VPN Speed Tests Across Global Regions
 <a name="vpn-speed-tests-global-regions"></a>
