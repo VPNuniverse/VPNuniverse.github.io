@@ -83,7 +83,7 @@ Searches such as **free VPN for Windows GitHub**, **VPN Windows GitHub**, **free
 
 | Check | What You Want to See |
 |---|---|
-| First-year price | Around US$53.99 / US$4.99 per month before tax, clearly cheaper than a normal 1-year ExpressVPN purchase. |
+| First-year price | US$54 for the first year, equal to US$4.50 per month before tax, clearly cheaper than a normal 1-year ExpressVPN purchase. |
 | Main use case | Your real reason: Disney+, Netflix, Hulu, travel Wi-Fi, public Wi-Fi, school Wi-Fi, or everyday browsing. |
 | Device support | Install on the device you actually use first: Windows laptop, iPhone, Android, Fire TV, or router. |
 | Refund-window test | Run the 30-minute test below before treating any VPN as permanent. |
@@ -213,12 +213,12 @@ If several people or many devices need coverage, Surfshark makes more sense, but
 
 | Recommended VPN | Best Fit | Current Price Note | Best Use Case |
 |---|---|---|---|
-| [StrongVPN](https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github_en&data1=vpnuniverse&data2=price_table) | 1-year value plan | US$4.99/mo, US$53.99 first year, about 66% off. Clearest 1-year value pick; ExpressVPN is clearly more expensive for one year. | Best value paid VPN |
-| [ExpressVPN](https://www.expressvpn.com/top/homepage?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&irgwc=1&afsrc=1) | Premium stability | Premium-priced: a 1-year ExpressVPN purchase is clearly more expensive than StrongVPN; long plans often show US$3.49-$4.99/mo, monthly is US$12.99, renewals are usually higher. | Best if you accept the higher price for brand/app polish |
-| [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=en) | Multi-device budget plan | Cheap only on 2-year/long plans from about US$1.99/mo; Starter total around US$53.73 + tax, renewal around US$79/year. | Unlimited devices |
-| [FlowVPN](https://www.flowvpx.com/sign-up/?locale=en&special=FREETRIAL&r=35-890485.w_github) | Short test before paying | 3-day trial; US$6.99 monthly; 1-year promo around US$39.99 (regular US$49.99). Good for testing, not our main long-term pick. | Trial before purchase |
+| [StrongVPN](https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github_en&data1=vpnuniverse&data2=price_table) | 1-year value plan | US$4.50/mo, US$54 first year, about 66% off. Clearest 1-year value pick; ExpressVPN is clearly more expensive for one year. | Best value paid VPN |
+| [ExpressVPN](https://www.expressvpn.com/top/homepage?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&irgwc=1&afsrc=1) | Premium stability | Premium-priced: around US$74.85 for 1 year, about US$97.72 on the long-term offer, and around US$99.95/year at renewal. Monthly is US$12.99. | Best if you accept the higher price for brand/app polish |
+| [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=en) | Multi-device budget plan | Cheap only on 2-year/long plans: Starter total around US$53.73 + tax, then around US$79/year at renewal. | Unlimited devices |
+| [FlowVPN](https://www.flowvpx.com/sign-up/?locale=en&special=FREETRIAL&r=35-890485.w_github) | Short test before paying | 3-day trial; US$6.99 monthly; 1-year promo around US$39.99, equal to US$3.33/mo (regular US$49.99/year). | Trial before purchase |
 
-Prices checked on 2026-06-22 from official/affiliate landing pages and shown in USD. The core value point is simple: if you want to buy within one year, StrongVPN is the clearest cheap paid VPN pick and ExpressVPN is much more expensive. Surfshark only makes sense as the cheapest route when you accept a 2-year/long plan and need unlimited devices; FlowVPN is mainly a trial/backup option.
+Price references updated on 2026-08-30 and shown in USD. Promotions, tax, and renewal terms can change, so confirm the final total at checkout. The core value point is simple: if you want to buy within one year, StrongVPN is the clearest cheap paid VPN pick and ExpressVPN is much more expensive. Surfshark only makes sense as the cheapest route when you accept a 2-year/long plan and need unlimited devices; FlowVPN is mainly a trial/backup option.
 
 ## Free VPN GitHub and Unknown Proxy List Risks
 
@@ -396,7 +396,7 @@ After testing hundreds of VPNs over the years, here are the top picks based on m
 
 <img src="./image/speed_test/strong_main.png?v=20260706-speed" alt="StrongVPN Speed Test" width="400"/>
 
-**StrongVPN** is a fast-rising VPN with servers across Europe and the Americas, often priced far below premium brands on annual promotions. The current annual offer is US$4.99/mo, US$53.99 for the first year, about 66% off; that is the clearest 1-year value point versus ExpressVPN. Tax and renewal can change the final charge, but the first-year comparison is not vague: StrongVPN is much cheaper for a normal one-year buy. It supports international payments, and their engineering team keeps refreshing servers regularly to stay ahead of blocks.  
+**StrongVPN** is a fast-rising VPN with servers across Europe and the Americas, often priced far below premium brands on annual promotions. The current annual offer is US$4.50/mo, US$54 for the first year, about 66% off; that is the clearest 1-year value point versus ExpressVPN. Tax and renewal can change the final charge, but the first-year comparison is not vague: StrongVPN is much cheaper for a normal one-year buy. It supports international payments, and their engineering team keeps refreshing servers regularly to stay ahead of blocks.<br>
 
 Perfect for everyday use: streaming YouTube, scrolling Facebook, or unlocking Netflix, Hulu, ABC, HBO, Sky Go, and more. They provide clean, native apps for Windows, macOS, iOS, Android, and Amazon Fire TV, plus easy setup guides for Chrome, routers, Fire TV Stick, and Kodi.  
 
