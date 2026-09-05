@@ -5,7 +5,7 @@ description: "A GitHub-hosted VPN comparison for free VPN and Windows searchers,
 ---
 
 # VPN GitHub Comparison 2026 - Streaming, Speed Tests, Public Wi-Fi & VPN Deals
-**Last updated:** September 1, 2026 - VPN Universe
+**Last updated:** September 5, 2026 - VPN Universe
 
 VPN Universe is a GitHub-hosted VPN comparison project. It tracks the same VPN providers every day, then keeps the speed chart, streaming checks, price table, setup notes, and risk explanations in one place.
 
@@ -247,7 +247,7 @@ This guide compares paid VPN options first, then explains free VPN risks, proxy 
 If your main use case is Netflix, Disney+, Hulu, Max, Prime Video, sports, or smart TV streaming, start with the on-page [Best VPN for Streaming on GitHub](#best-vpn-for-streaming-on-github) section above. The older focused [Best VPN for Streaming 2026](./best-vpn-for-streaming/) page remains available as a longer supporting reference.
 
 <!-- NEWS_START -->
-#### September 1, 2026 VPN, Privacy and Cybersecurity News
+#### September 5, 2026 VPN, Privacy and Cybersecurity News
 - **ExpressVPN is now available on supported Amazon Vega OS devices**: Fire TV users, including owners of the Fire TV Stick 4K Select, can install the app from the Amazon Appstore and control locations and connections with a remote. [Official announcement](https://www.expressvpn.com/blog/expressvpn-amazon-vega-os/)
 - **Vega OS can send a small number of DNS queries outside the VPN tunnel**: ExpressVPN says this is operating-system behavior affecting VPN apps generally; encrypted traffic remains protected, but Vega OS users should understand the limitation. [Official support note](https://www.expressvpn.com/support/troubleshooting/dns-queries-vega-os/)
 - **Proton VPN releases a new client-side protocol core in beta**: Proton Protocols is available in beta builds for Windows, Android, iOS/iPadOS, and Linux, with a focus on reliability, censorship resistance, and faster cross-platform development. [Official release](https://protonvpn.com/blog/introducing-proton-protocols)
@@ -298,7 +298,7 @@ These guides do not change the provider order used on this site. They narrow the
 ### 15. [Best VPN Features for Gaming – Level Up Your Play](#vpn-features-for-gaming)
 ### 16. [Step-by-Step Guide: Watching Global Streaming Content with a VPN](#guide-to-streaming-with-vpn)
 #### 17.1 [How Netflix & Hulu Detect & Block VPN Connections](#how-netflix-and-hulu-detect-and-block-vpns)
-### 17. [Detailed VPN Speed Test Report (Fresh Daily Update – September 1, 2026)](#detailed-vpn-speed-test-report)
+### 17. [Detailed VPN Speed Test Report (Fresh Daily Update – September 5, 2026)](#detailed-vpn-speed-test-report)
 #### 18.1 [Connection Success Rates by Continent](#vpn-connection-success-rates-by-continent)
 #### 18.2 [VPN Speed Tests Across Global Regions](#vpn-speed-tests-global-regions)
 #### 18.3 [Netflix Connection Success Rates by Continent](#netflix-connection-success-rates-by-continent)
@@ -309,7 +309,7 @@ These guides do not change the provider order used on this site. They narrow the
 ### 21. [FlowVPN for Apple TV – Why It Stands Out](#vpn-for-apple-tv)
 #### 23.1 [Common VPN Limitations & How to Solve Them](#vpn-limitations-and-solutions)
 
-**Last updated: September 1, 2026**
+**Last updated: September 5, 2026**
 
 >In today's world, truly stable and globally effective VPNs are becoming increasingly rare. Many review sites simply copy content from each other, quickly losing relevance. Some recommended VPNs perform poorly (or fail entirely) in certain regions, and unfortunately, a lot of reviewers aren't testing from those locations with real local experience. Over the past few years, streaming blocks, app location checks, public Wi-Fi risks, and account security alerts have made VPN choice more practical and less theoretical. Please read this article carefully to avoid common traps. This guide is based on my real-world experience and receives continuous daily updates so you can choose safe, working tools for streaming, gaming, and privacy. If you want a quick recommendation, jump to the suggestions section at the bottom.
 
@@ -1518,7 +1518,7 @@ Thanks for reading our fresh daily VPN guide. Stay secure, game hard, and unlock
 
 
 <a name="detailed-vpn-speed-test-report"></a>
-## Detailed VPN Speed Test Report (Fresh Daily Update – September 1, 2026)
+## Detailed VPN Speed Test Report (Fresh Daily Update – September 5, 2026)
 
 ### VPN Speed Tests Across Global Regions
 <a name="vpn-speed-tests-global-regions"></a>
