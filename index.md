@@ -13,7 +13,7 @@ VPN Universe is built for someone who searched **VPN GitHub**, **free VPN GitHub
 
 Most U.S. VPN rankings sell a universal winner. We rank the **cost of being wrong**. A two-year bargain is expensive if the app fails on Hulu, a hotel network, or the only TV you use. Peak speed is irrelevant if the connection drops during a live game. Premium support is worth paying for only when it solves a problem the lower-cost option cannot.
 
-That is why StrongVPN stays first here. It is not presented as the fastest or most feature-heavy VPN. It is the clearest one-year value test: the first-year reference is US$54, or US$4.50 per month before tax, without using a two-year headline price. If it passes your actual device and app test, there is little reason to pay more. If it fails, move to ExpressVPN for a more polished premium route, Surfshark for unlimited household devices, or FlowVPN for a short compatibility trial.
+That is why StrongVPN stays first here. It is not presented as the fastest or most feature-heavy VPN. It is the clearest one-year value test: the official landing page shows US$3.97 per month and bills US$47.69 for the first year before tax, without using a two-year headline price. If it passes your actual device and app test, there is little reason to pay more. If it fails, move to ExpressVPN for a more polished premium route, Surfshark for unlimited household devices, or FlowVPN for a short compatibility trial.
 
 **The rule behind this ranking:** StrongVPN first for a controlled one-year purchase; ExpressVPN second when app polish and support justify the premium; Surfshark third when unlimited devices change the math; FlowVPN fourth when a short trial matters more than long-term value.
 
@@ -54,11 +54,11 @@ Proton documents unlimited data, open-source and audited apps, and Windows 10/11
 
 ## Price and commitment check
 
-Prices change by landing page, tax, country, and renewal. The figures below separate the project's recorded offer from public prices checked on October 17, 2026. The affiliate checkout is the contract: confirm the live total before paying. Canadian buyers should also check the final CAD conversion and card charge.
+Prices change by landing page, tax, country, and renewal. The figures below separate the project's recorded offer from public prices checked on November 8, 2026. The affiliate checkout is the contract: confirm the live total before paying. Canadian buyers should also check the final CAD conversion and card charge.
 
 | Provider | Reference purchase | Practical reading |
 |---|---|---|
-| [StrongVPN](https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github_en&data1=vpnuniverse&data2=price) | US$54 for the first year, equal to US$4.50/month before tax | The clearest one-year value test and clearly cheaper than a normal one-year ExpressVPN purchase |
+| [StrongVPN](https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github_en&data1=vpnuniverse&data2=price) | Official landing page: US$3.97/month; US$47.69 billed for the first year before tax | The clearest one-year value test and clearly cheaper than a normal one-year ExpressVPN purchase |
 | [ExpressVPN](https://www.expressvpn.com/top/homepage?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&irgwc=1&afsrc=1) | Public Basic reference: US$97.72 for the first 28 months, then US$99.95/year; verify the 12-month tab separately | Pay the premium for app quality and support, not because the logo alone guarantees your stream |
 | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=en) | Public Starter reference: US$66.92 plus tax for the first 28 months; the affiliate landing page may show a different campaign | Household value only if you need unlimited devices and accept the longer prepayment |
 | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=en&special=FREETRIAL&r=35-890485.w_github) | Three-day trial; US$6.99 monthly; annual promotion about US$39.99, regular US$49.99 | Useful as a short network test or backup; confirm trial conversion before starting |
@@ -276,7 +276,7 @@ After testing hundreds of VPNs over the years, here are the top picks based on m
 
 <img src="./image/speed_test/strong_main.png?v=20260706-speed" alt="StrongVPN Speed Test" width="400"/>
 
-**StrongVPN** is first here because the recorded affiliate offer is US$54 for the first year, or US$4.50 per month before tax. That is a simpler one-year commitment than the long introductory terms commonly advertised by larger competitors. Tax, renewal, payment methods, and the final total must still be confirmed at checkout.<br>
+**StrongVPN** is first here because the official landing page shows US$3.97 per month and bills US$47.69 for the first year before tax. That is a simpler one-year commitment than the long introductory terms commonly advertised by larger competitors. Tax, renewal, payment methods, and the final total must still be confirmed at checkout.<br>
 
 The provider offers apps and setup material for common desktop, mobile, TV, and router environments. Streaming access changes frequently, so treat any named service as something to test during the refund window rather than a permanent promise.  
 
